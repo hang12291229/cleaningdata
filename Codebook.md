@@ -34,9 +34,26 @@ The dataset includes the following files:
 - 'test/X_test.txt': Test set.
 - 'test/y_test.txt': Test labels.
 
+### Variable list
+- Labeltest 
+- Labeltrain
+- Testset
+- Trainset
+- Subjecttest
+- Subjecttrain
+
+### In next step they will be merged as
+- Label 
+- Dataset
+- Subject
+
+### Turn out the one data set is 
+- Datatable
+
+
 ### Output
 
-Some of the outvariable are listed as follows
+Output are listed as follows
  [1] "Subject"                                             
  [2] "Activity"                                            
  [3] "timeBodyAccelerometer-mean()-X"                      
