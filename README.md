@@ -1,6 +1,5 @@
 Read me
 
-Steps
 Step 1:Download the data 
 
 Step 2:Load all data frame into R
