@@ -35,6 +35,9 @@ The dataset includes the following files:
 - 'test/y_test.txt': Test labels.
 
 ### Variable list
+
+The data sets will be assigned into the following variables:
+
 - Labeltest 
 - Labeltrain
 - Testset
@@ -42,20 +45,21 @@ The dataset includes the following files:
 - Subjecttest
 - Subjecttrain
 
-### In next step they will be merged as
+### In next step the test and training datsets of each file categorie is merged and for, 3 new datasets 
 - Label 
 - Dataset
 - Subject
 
-### Turn out the one data set is 
+### All the 3 datasets above will be merged into 1 data set called: 
 - Datatable
 
-### The subset criteria is stored in
+### The datasets need to be subseted so as to generate menaingful output, and the subset criteria is stored in
 - Datasetmeanstd
 
 ### Output
 
-Output are listed as follows
+Output are listed as follows:
+
  [1] "Subject"                                             
  [2] "Activity"                                            
  [3] "timeBodyAccelerometer-mean()-X"                      
