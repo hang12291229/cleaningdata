@@ -45,7 +45,7 @@ The data sets will be assigned into the following variables:
 - Subjecttest
 - Subjecttrain
 
-### In next step the test and training datsets of each file categorie is merged and for, 3 new datasets 
+### In next step the test and training datsets of each file type is merged and form the new datasets 
 - Label 
 - Dataset
 - Subject
